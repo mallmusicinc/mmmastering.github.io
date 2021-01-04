@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Malice_2012_02_25';
+   font-display: swap;
+   src: url('Malice_2012_02_25/font.ttf');
+}
+@font-face {
+   font-family: 'Arial Bold';
+   font-display: swap;
+   src: url('Arial Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Arial Bold Italic';
+   font-display: swap;
+   src: url('Arial Bold Italic/font.ttf');
+}
+@font-face {
+   font-family: 'Arial Black';
+   font-display: swap;
+   src: url('Arial Black/font.ttf');
+}
